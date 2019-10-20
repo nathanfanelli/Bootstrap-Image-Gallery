@@ -1,1 +1,1 @@
-This is a responsive six image gallery created with Bootstrap 4. 
+This is a responsive image gallery created with Bootstrap 4. 
