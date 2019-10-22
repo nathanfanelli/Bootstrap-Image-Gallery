@@ -1,1 +1,1 @@
-This is a responsive image gallery created with Bootstrap 4 and HTML5. 
+This is a responsive image gallery created with HTML5 and Bootstrap 4 styles. 
